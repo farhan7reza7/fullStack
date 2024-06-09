@@ -1,0 +1,6 @@
+[submodule "back"]
+	path = back
+	url = ./back
+[submodule "front"]
+	path = front
+	url = ./front
